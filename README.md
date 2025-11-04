@@ -2,7 +2,8 @@
 
 Este proyecto renderiza una **estrella/sol procedimental** usando un sistema de renderizado por software completamente implementado desde cero. La estrella es generada mediante cálculos en shaders personalizados usando **Simplex noise 3D**, manipulando color, emisión variable, y simulando turbulencias y actividad solar en tiempo real.
 
-[![Ver video](assets/preview.png)](assets/Sol.mp4)
+
+![Sol animado](assets/Sol.gif)
 
 
 ## 🎯 Objetivo del Proyecto
